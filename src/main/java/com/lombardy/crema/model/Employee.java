@@ -1,4 +1,4 @@
-package com.lombardy.crema;
+package com.lombardy.crema.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

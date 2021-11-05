@@ -1,5 +1,7 @@
 package com.lombardy.crema;
 
+import com.lombardy.crema.model.Employee;
+import com.lombardy.crema.repository.EmployeeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
